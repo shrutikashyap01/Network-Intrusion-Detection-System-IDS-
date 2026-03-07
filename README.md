@@ -1,4 +1,4 @@
-# Network-Intrusion-Detection-System-IDS-
+# Cyber Security Case Study -
 ## 📖 Project Overview
 
 
